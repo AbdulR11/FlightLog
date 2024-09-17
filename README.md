@@ -9,4 +9,4 @@ This repository is dedicated to the collaborative work of Team 15 for the CSU 11
 - Patrick Phibbs - [PatrickPhibbs](https://github.com/PatrickPhibbs)
 - Thai Nguyen - [Thai-Nguyen-TCD](https://github.com/Thai-Nguyen-TCD)
 - Ayush Priyadarshi - [ayushdad22](https://github.com/ayushdad22)
-- Abdul Rehan - [AbdulR11](https://github.com/AbdulR11)
+- Abdul Wadood Rehan - [AbdulR11](https://github.com/AbdulR11)
